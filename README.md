@@ -1,1 +1,2 @@
-# snake
+# snakegame 
+simple snakegame using pygame 
